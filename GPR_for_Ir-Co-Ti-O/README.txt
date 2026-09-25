@@ -5,7 +5,7 @@ Gaussian Process Regression-Enhanced Screening of Ir–Co–Ti Mixed-Oxide Thin-
 Digital Discovery (2026)
 DOI: 10.1039/D6DD00127K
 
-The dataset associated with this publication is available on Zenodo.
+The dataset associated with this publication is also available on Zenodo.
 Dataset DOI: 10.5281/zenodo.19001670
 
 Licensed under Creative Commons Attribution 4.0 International
