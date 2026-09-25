@@ -1,0 +1,16 @@
+name: gp-publication
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12.3
+  - pip=24.0
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - scikit-learn=1.5.0
+  - ipykernel
+  - pip:
+      - numpy==1.26.4
+      - torch==2.3.0
+      - gpytorch==1.11
+      - botorch==0.11.0
