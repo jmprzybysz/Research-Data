@@ -8,11 +8,6 @@ DOI: 10.1039/D6DD00127K
 The dataset associated with this publication is available on Zenodo.
 Dataset DOI: 10.5281/zenodo.19001670
 
-Joanna M. Przybysz, Felix Thelen, Florian Lourens, Ken Jenewein, Alfred Ludwig, and Serhiy Cherevko
-Gaussian Process Regression-Enhanced Screening of Ir–Co–Ti Mixed-Oxide Thin-Film Electrocatalyst Libraries for Acidic Oxygen Evolution
-Digital Discovery (2026), DOI: 10.1039/D6DD00127K
-The dataset was published on Zenodo with the following DOI: 10.5281/zenodo.19001670
-
 Licensed under Creative Commons Attribution 4.0 International
 
 The code was developed using: 
